@@ -48,6 +48,9 @@ if( class_exists( 'CSF' ) ) {
 	require_once RESTLY_INC_DIR . 'inline-css.php';
 }
 
+// Updater
+require_once RESTLY_INC_DIR . 'updater/update-config.php';
+
 /**
  * Load WooCommerce compatibility file.
  */
