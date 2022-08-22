@@ -306,6 +306,6 @@ $purchase_code_status = trim( get_option( 'restly_purchase_code_status' ) );
 if ( $purchase_code_status == 'valid' ) {
 	$update_checker = new ThemeUpdateChecker(
 		'restly',
-		'https://updatetheme.themepul.com/restly/restly/theme-info.json'
+		'https://updatetheme.themepul.com/restly/theme-info.json'
 	);
 }

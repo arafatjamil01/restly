@@ -35,7 +35,7 @@ class Restly_register_theme {
 				'remote_api_url' => '',
 				'theme_slug'     => 'restly',
 				'version'        => '',
-				'author'         => 'CreativeGigs',
+				'author'         => 'Themepul',
 				'renew_url'      => '',
 			]
 		);
